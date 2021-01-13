@@ -1,6 +1,6 @@
 # Meu portifólio
 
-## *Em Construção*
+### Link
 Portifólio disponivel no link: https://giovaneverbinnen.github.io/portifolio/
 
 ### - Home
