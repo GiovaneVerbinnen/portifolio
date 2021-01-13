@@ -4,4 +4,4 @@
 Portifólio disponivel no link: https://giovaneverbinnen.github.io/portifolio/
 
 ### - Home
-![](img/sobre.png)
+![](./sobre.png)
