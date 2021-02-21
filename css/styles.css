@@ -10091,8 +10091,16 @@ p.lead {
 .dev-icons > li:hover {
   transform: scale(1.1);
 }
-
-
+.fun:hover {
+  color: var(--primary);
+  transform: scale(1.1);
+}
+.zoom:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: ease-in 0.3s;
+  border-radius: 5px;
+}
 
 section.resume-section {
   display: flex;
