@@ -1,7 +1,10 @@
 # Meu portifólio
 
-## *Em Construção*
+### Link
 Portifólio disponivel no link: https://giovaneverbinnen.github.io/portifolio/
 
 ### - Home
-![](img/sobre.png)
+
+<a href="https://giovaneverbinnen.github.io/portifolio/">![](./sobre.png)</a>
+
+
